@@ -1,0 +1,1 @@
+# Interval-Data-Regression---Consumption-Data
